@@ -124,7 +124,7 @@ namespace Calculater
 
             }
 
-           else if (sign == '/')
+           else
             {
                 result = value1 /  value2;
                 textBox1.Text = result.ToString();
